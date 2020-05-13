@@ -1,0 +1,1 @@
+export const GET_USER_FULL_NAME = 'GET_USER_FULL_NAME';
